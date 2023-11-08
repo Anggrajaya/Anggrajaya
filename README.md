@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anggrajaya
 - 👀 I’m interested in WEB Programing
-- 🌱 I’m currently learning JS and PHP
+- 🌱 I’m currently learning JS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You Can Contact Me in Instagram on @wijayaanggraena7
 
